@@ -3,7 +3,7 @@ html{
 
 body{
   background-image:url(../img/background2.jpg);
-background-size: auto;
+  height:100%;
 }
 
 /* main */
