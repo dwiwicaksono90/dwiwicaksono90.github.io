@@ -1,9 +1,13 @@
 html{
+  background-image:url(../img/background2.jpg);
+  height:100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 body{
-  background-image:url(../img/background2.jpg);
-  height:100%;
+
 }
 
 /* main */
@@ -32,13 +36,13 @@ body{
 /* footer */
 
 .footer{
-  font-size: 18px;
+  font-size: 20px;
   color: white;
   text-align: center;
   background:rgba(0,0,0,0.3);
   height: 110px;
   width: 60%;
-  margin: auto;
+  margin:auto;
   border-radius: 0 0 30px 30px;
 
 }
